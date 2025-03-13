@@ -1,2 +1,2 @@
 # OpenStack
-OpenStack for Private cloud
+Iaac
